@@ -102,9 +102,6 @@ function getItemLinks() {
     ); // 随机滚动间隔
   };
 
-  // 等待页面完全加载后执行滚动
-  console.log("页面加载完成");
-
   // 检查页面是否足够长，以便滚动
   if (
     document.body.scrollHeight > window.innerHeight &&
