@@ -1,3 +1,5 @@
+## 小红书网页版批量获取笔记链接脚本
+
 在[此脚本](https://github.com/JoeanAmier/XHS-Downloader/blob/master/static/%E8%87%AA%E5%8A%A8%E6%BB%9A%E5%8A%A8%E9%A1%B5%E9%9D%A2.js)上做的修改。
 
 ### 使用方法：
